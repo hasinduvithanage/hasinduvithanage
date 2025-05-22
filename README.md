@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Stock Price Prediction Model**
 
-- 🌱 I’m currently learning **React.js, Cyber Security, Penetration testing**
+- 🌱 I’m currently learning **Python, Machine Learning**
 
 - 📫 How to reach me **hasinduvithanage@gmail.com**
 
